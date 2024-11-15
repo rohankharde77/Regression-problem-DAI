@@ -1,5 +1,7 @@
 # Regression-problem-DAI
 Tip percentage is strongly influenced by the size of the bill and the time of service.
+
+INSIGHTS
 1. Focus on Peak Tipping Times: If data shows higher tips during weekends or dinner hours, allocate experienced staff and optimize resources during these times to maximize revenue.
 
 2. Upselling Based on Data Patterns: If larger bills correlate with higher tips, train staff to recommend additional items like appetizers or drinks that align with customer preferences observed in the dataset.
